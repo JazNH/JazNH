@@ -7,7 +7,7 @@ Software Engineer
 Figuring things out one line break at a time
 
 *   🌍  I'm based in Greater Boston Area
-*   ✉️  You can contact me at [jasdeep603singh@gmail.com](mailto:jasdeep603singh@gmail.com)
+*   ✉️  You can contact me at [jasdeep.s94@gmail.com](mailto:jasdeep.s94@gmail.com)
 *   🧠  I'm learning Springboot Java
 *   🤝  I'm open to collaborating on Python, Java, anything!!
 *   ⚡  Love cars, motorcycles, food, and the Marvel Universe
